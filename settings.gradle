@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Encrypted SMS App [02.12.2020]'
